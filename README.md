@@ -2,7 +2,7 @@
 
 ## Bio
 
-Hello, my name is Ryan Forelli. I am a PhD student at Northwestern University studying Computer Engineering 
+Hello, my name is Ryan Forelli. I am a PhD student at Northwestern University studying Computer Engineering.
 
 ## Research Overview
 My focus is on AI accelerators and HW/SW co-design techniques and tools to empower AI engineers. I primarily work on accelerators for applications in scientific experimentation in domains such as fusion energy, biological cell-sorting, materials characterization, high-energy physics, and more.
